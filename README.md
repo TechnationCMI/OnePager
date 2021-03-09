@@ -7,6 +7,8 @@
   Technation OnePager
 </h1>
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/da74e0e9-8aa6-449f-8f3e-388d5e6621f6/deploy-status)](https://app.netlify.com/sites/stoic-hypatia-6d8b0e/deploys)
+
 Image-heavy photography portfolio with colorful accents & customizable pages. Includes adaptive image grids powered by CSS grid and automatic image integration into projects. Using the Gatsby Theme [`@lekoarts/gatsby-theme-jodie`](https://github.com/LekoArts/gatsby-themes/tree/master/themes/gatsby-theme-jodie).
 
 
