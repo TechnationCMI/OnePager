@@ -9,7 +9,7 @@ module.exports = {
     // Can be used for e.g. JSONLD
     siteHeadline: `Technation - Telepresence robot`,
     // Used for SEO
-    siteDescription: `Technation improves the current telepresence Boki robot with sound.`,
+    siteDescription: `Technation improves the current telepresence robot Boki with sound.`,
     // Used for og:image and must be placed inside the `static` folder
     siteImage: `/banner.jpg`,
   },
@@ -19,11 +19,13 @@ module.exports = {
       // See the theme's README for all available options
       options: {
         navigation: [
-          { name: `Concepten`, slug: `/concepten` },
-          { name: `Stappen`, slug: `/projects` },
-          { name: `Proces`, slug: `/proces` },
           { name: `Team`, slug: `/team` },
+          { name: `Concepten`, slug: `/concepten` },
+          { name: `Stappen`, slug: `/stappen` },
+          { name: `Proces`, slug: `/proces` },
         ],
+        projectsPath: `content/stappen`,
+        projectsUrl: `/stappen`
       },
     },
     {
