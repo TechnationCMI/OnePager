@@ -4,6 +4,7 @@ require(`dotenv`).config({
 
 module.exports = {
   siteMetadata: {
+    siteTitle: `Technation`,
     // Default title of the page
     siteTitleAlt: `Technation`,
     // Can be used for e.g. JSONLD
