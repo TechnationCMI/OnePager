@@ -20,7 +20,6 @@ module.exports = {
       // See the theme's README for all available options
       options: {
         navigation: [
-          { name: `Home`, slug: `/` },
           { name: `Team`, slug: `/team` },
           { name: `Concepten`, slug: `/concepten` },
           { name: `Stappen`, slug: `/stappen` },
