@@ -12,7 +12,7 @@ module.exports = {
     // Used for SEO
     siteDescription: `Technation improves the current telepresence robot Boki with sound.`,
     // Used for og:image and must be placed inside the `static` folder
-    siteImage: `/banner.jpg`,
+    siteImage: `/tech-banner.jpg`,
     author: `@Technation-HR`
   },
   plugins: [
