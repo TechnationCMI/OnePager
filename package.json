@@ -2,9 +2,8 @@
   "private": true,
   "name": "technation",
   "description": "Technation improves the current telepresence Boki robot with sound.",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "author": "Technation",
-  "license": "0BSD",
   "starter-name": "Technation",
   "scripts": {
     "build": "gatsby build",
