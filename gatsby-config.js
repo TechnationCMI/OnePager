@@ -45,7 +45,7 @@ module.exports = {
         description: `Technation improves the current telepresence robot Boki with sound.`,
         start_url: `/`,
         background_color: `#ffffff`,
-        theme_color: `#b75e09`,
+        theme_color: `#ADBFE1`,
         display: `standalone`,
         icons: [
           {
