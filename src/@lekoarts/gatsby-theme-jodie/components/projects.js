@@ -10,6 +10,7 @@ import { visuallyHidden } from "@lekoarts/gatsby-theme-jodie/src/styles/utils"
 const Project = ({ data: { projects }, location }) => (
   <Layout>
     <SEO title="Projects" pathname={location.pathname} />
+    <center><iframe title="micro-board" width="768" height="432" src="https://miro.com/app/live-embed/o9J_lTj2VPM=/?moveToViewport=111433,-87471,377715,222314" frameBorder="0" scrolling="no" allowFullScreen/></center>
     <h1 sx={visuallyHidden} data-testid="page-title">
       {locales.projects}
     </h1>
